@@ -1,9 +1,5 @@
-# BaiThuHoachSo3
-Bài thu hoạch số 3 sử dụng bootstrap
+# Huong dan su dung
+1. Tạo mới 1 file html trong thư mục xampp htdocs (hoặc www nếu dùng wampp)
+2. Chạy host
+3. click vào đường dẫn bai thu hoạch muốn xem
 
-  Menu
-    + chứa home, about, product, register, form search
-  Carouse
-  Hiển thị sản phẩm
-  Có responsive
-  Click vào register, hiển thị modal chứa form nhập thông tin đăng kí
